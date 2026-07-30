@@ -35,3 +35,9 @@ no servidor da nuvem.
 
 
 Estilo: COSTAR
+
+informações adicionais 
+modelo do python para o render: PYTHON_VERSION 3.10.13 
+e codigo parasubir e dar RUN: streamlit run app.py --server.port $PORT --server.address 0.0.0.0 
+
+obrigatorio: arquivo txt de requerimentos 
