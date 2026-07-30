@@ -1,5 +1,5 @@
 
-streamlit  1.60.0
+streamlit1.60.0
 tensorflow-cpu2.15.0
 Pillow10.2.0
 numpy1.26.4
