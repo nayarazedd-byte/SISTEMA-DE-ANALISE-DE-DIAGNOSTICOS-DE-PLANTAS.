@@ -1,0 +1,6 @@
+STREAMING_CHUNK:Configurando bibliotecas e versões...
+
+streamlit1.32.0
+tensorflow-cpu2.15.0
+Pillow10.2.0
+numpy1.26.4
